@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to my GitHub page 👋
+
+:rocket: On this page you will find projects that I have worked on during my studies.
 
 <!--
 **paulbonin/paulbonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
