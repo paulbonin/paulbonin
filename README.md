@@ -5,7 +5,7 @@ On this page you will find projects that I have worked on during my studies.
 ## :rocket: My projects
 
 
-🧬 [Owkin-PIK3CA-mutation-detection] The winning project of the data challenge ["Detecting PIK3CA mutation in breast cancer by OWKIN"](https://challengedata.ens.fr/challenges/98), which consisted in a weakly-supervised binary classification problem.
+🧬 🏆 [Owkin-PIK3CA-mutation-detection] The winning project of the data challenge ["Detecting PIK3CA mutation in breast cancer by OWKIN"](https://challengedata.ens.fr/challenges/98), which consisted in a weakly-supervised binary classification problem.
 
 :mag_right: [deep-classifiers-geometry] A study of the sensitivity of deep learning networks to adversarial attacks and the need for robust classifiers in safety-critical systems under the prism of decision boundary geometry.
 
