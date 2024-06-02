@@ -9,9 +9,9 @@ On this page you will find projects that I have worked on during my studies.
 
 :mag_right: [deep-classifiers-geometry] A study of the sensitivity of deep learning networks to adversarial attacks and the need for robust classifiers in safety-critical systems under the prism of decision boundary geometry.
 
-🔬 [PGM] A study of Dirichlet Process Mixture Models
+🔬 [MVA-PGM-Sampling-Methods-for-DP-Mixture-Models] A study of Dirichlet Process Mixture Models.
 
-:sun_with_face: [TS] A study of Surface Solar Irradiance (SSI) data using the Hilbert Huang Transform
+:sun_with_face: [MVA-TS-On-the-intrinsic-timescales-of-temp.-var.-in-meas.-of-the-SSI] A study of Surface Solar Irradiance (SSI) data using the Hilbert Huang Transform.
 
 
 <!--
